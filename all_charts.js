@@ -185,7 +185,7 @@ var w = 140, h = 300;
 			.attr("width", w)
 			.attr("height", h)
 			.attr("class", "legend")
-            .attr('transform','translate(550,300)');
+            .attr('transform','translate(550,-300)');
 
 		var legend2 = key.append("defs")
 			.append("svg:linearGradient")
