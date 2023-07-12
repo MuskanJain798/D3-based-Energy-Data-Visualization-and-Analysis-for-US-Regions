@@ -1,0 +1,237 @@
+,STATE,TYPE OF PRODUCER,GENERATION
+0,Alaska,"Combined Heat and Power, Commercial Power",350962.0
+1,Alaska,"Combined Heat and Power, Electric Power",199567.0
+2,Alaska,"Combined Heat and Power, Industrial Power",111166.0
+3,Alaska,"Electric Generators, Electric Utilities",5229885.0
+4,Alaska,"Electric Generators, Independent Power Producers",51947.0
+5,Alabama,"Combined Heat and Power, Electric Power",4031284.0
+6,Alabama,"Combined Heat and Power, Industrial Power",4640626.0
+7,Alabama,"Electric Generators, Electric Utilities",107332202.0
+8,Alabama,"Electric Generators, Independent Power Producers",26951021.0
+9,Arkansas,"Combined Heat and Power, Commercial Power",62136.0
+10,Arkansas,"Combined Heat and Power, Electric Power",1023489.0
+11,Arkansas,"Combined Heat and Power, Industrial Power",1196173.0
+12,Arkansas,"Electric Generators, Electric Utilities",53337372.0
+13,Arkansas,"Electric Generators, Independent Power Producers",4610967.0
+14,Arizona,"Combined Heat and Power, Commercial Power",154108.0
+15,Arizona,"Combined Heat and Power, Electric Power",52607.0
+16,Arizona,"Electric Generators, Electric Utilities",86348455.0
+17,Arizona,"Electric Generators, Independent Power Producers",22053365.0
+18,California,"Combined Heat and Power, Commercial Power",2400830.0
+19,California,"Combined Heat and Power, Electric Power",12417290.0
+20,California,"Combined Heat and Power, Industrial Power",13513448.0
+21,California,"Electric Generators, Electric Utilities",61737283.0
+22,California,"Electric Generators, Independent Power Producers",106658255.0
+23,Colorado,"Combined Heat and Power, Commercial Power",36299.0
+24,Colorado,"Combined Heat and Power, Electric Power",36629.0
+25,Colorado,"Combined Heat and Power, Industrial Power",256188.0
+26,Colorado,"Electric Generators, Electric Utilities",41364397.0
+27,Colorado,"Electric Generators, Independent Power Producers",15044204.0
+28,Connecticut,"Combined Heat and Power, Commercial Power",316117.0
+29,Connecticut,"Combined Heat and Power, Electric Power",123788.0
+30,Connecticut,"Combined Heat and Power, Industrial Power",612115.0
+31,Connecticut,"Electric Generators, Electric Utilities",94322.0
+32,Connecticut,"Electric Generators, Independent Power Producers",42977227.0
+33,District of Columbia,"Combined Heat and Power, Commercial Power",192256.0
+34,District of Columbia,"Electric Generators, Independent Power Producers",25982.0
+35,Delaware,"Combined Heat and Power, Commercial Power",5393.0
+36,Delaware,"Combined Heat and Power, Electric Power",120682.0
+37,Delaware,"Combined Heat and Power, Industrial Power",911931.0
+38,Delaware,"Electric Generators, Electric Utilities",27602.0
+39,Delaware,"Electric Generators, Independent Power Producers",2974363.0
+40,Florida,"Combined Heat and Power, Commercial Power",94938.0
+41,Florida,"Combined Heat and Power, Electric Power",1687471.0
+42,Florida,"Combined Heat and Power, Industrial Power",4627609.0
+43,Florida,"Electric Generators, Electric Utilities",227993630.0
+44,Florida,"Electric Generators, Independent Power Producers",9997385.0
+45,Georgia,"Combined Heat and Power, Commercial Power",4711.0
+46,Georgia,"Combined Heat and Power, Electric Power",527596.0
+47,Georgia,"Combined Heat and Power, Industrial Power",5095129.0
+48,Georgia,"Electric Generators, Electric Utilities",102646392.0
+49,Georgia,"Electric Generators, Independent Power Producers",18256917.0
+50,Hawaii,"Combined Heat and Power, Commercial Power",364607.0
+51,Hawaii,"Combined Heat and Power, Electric Power",2294287.0
+52,Hawaii,"Combined Heat and Power, Industrial Power",221674.0
+53,Hawaii,"Electric Generators, Electric Utilities",4721460.0
+54,Hawaii,"Electric Generators, Independent Power Producers",1586065.0
+55,Iowa,"Combined Heat and Power, Commercial Power",142153.0
+56,Iowa,"Combined Heat and Power, Electric Power",4065.0
+57,Iowa,"Combined Heat and Power, Industrial Power",2065820.0
+58,Iowa,"Electric Generators, Electric Utilities",54854479.0
+59,Iowa,"Electric Generators, Independent Power Producers",9053749.0
+60,Idaho,"Combined Heat and Power, Commercial Power",68356.0
+61,Idaho,"Combined Heat and Power, Electric Power",67389.0
+62,Idaho,"Combined Heat and Power, Industrial Power",549112.0
+63,Idaho,"Electric Generators, Electric Utilities",10963688.0
+64,Idaho,"Electric Generators, Independent Power Producers",5300045.0
+65,Illinois,"Combined Heat and Power, Commercial Power",479423.0
+66,Illinois,"Combined Heat and Power, Electric Power",678169.0
+67,Illinois,"Combined Heat and Power, Industrial Power",2604843.0
+68,Illinois,"Electric Generators, Electric Utilities",4449699.0
+69,Illinois,"Electric Generators, Independent Power Producers",173647234.0
+70,Indiana,"Combined Heat and Power, Commercial Power",252338.0
+71,Indiana,"Combined Heat and Power, Electric Power",7702676.0
+72,Indiana,"Combined Heat and Power, Industrial Power",4635236.0
+73,Indiana,"Electric Generators, Electric Utilities",60991576.0
+74,Indiana,"Electric Generators, Independent Power Producers",20983341.0
+75,Kansas,"Combined Heat and Power, Commercial Power",14183.0
+76,Kansas,"Combined Heat and Power, Industrial Power",227115.0
+77,Kansas,"Electric Generators, Electric Utilities",33280052.0
+78,Kansas,"Electric Generators, Independent Power Producers",23224603.0
+79,Kentucky,"Combined Heat and Power, Industrial Power",488379.0
+80,Kentucky,"Electric Generators, Electric Utilities",69475329.0
+81,Kentucky,"Electric Generators, Independent Power Producers",590555.0
+82,Louisiana,"Combined Heat and Power, Commercial Power",178332.0
+83,Louisiana,"Combined Heat and Power, Electric Power",2744341.0
+84,Louisiana,"Combined Heat and Power, Industrial Power",27210836.0
+85,Louisiana,"Electric Generators, Electric Utilities",63497633.0
+86,Louisiana,"Electric Generators, Independent Power Producers",4430822.0
+87,Massachusetts,"Combined Heat and Power, Commercial Power",615109.0
+88,Massachusetts,"Combined Heat and Power, Electric Power",1545819.0
+89,Massachusetts,"Combined Heat and Power, Industrial Power",205260.0
+90,Massachusetts,"Electric Generators, Electric Utilities",475936.0
+91,Massachusetts,"Electric Generators, Independent Power Producers",16524875.0
+92,Maryland,"Combined Heat and Power, Commercial Power",903741.0
+93,Maryland,"Combined Heat and Power, Electric Power",2354505.0
+94,Maryland,"Combined Heat and Power, Industrial Power",48121.0
+95,Maryland,"Electric Generators, Electric Utilities",3471174.0
+96,Maryland,"Electric Generators, Independent Power Producers",32941750.0
+97,Maine,"Combined Heat and Power, Commercial Power",97588.0
+98,Maine,"Combined Heat and Power, Electric Power",383725.0
+99,Maine,"Combined Heat and Power, Industrial Power",1791822.0
+100,Maine,"Electric Generators, Electric Utilities",2757.0
+101,Maine,"Electric Generators, Independent Power Producers",8676883.0
+102,Michigan,"Combined Heat and Power, Commercial Power",666788.0
+103,Michigan,"Combined Heat and Power, Electric Power",11961234.0
+104,Michigan,"Combined Heat and Power, Industrial Power",1309135.0
+105,Michigan,"Electric Generators, Electric Utilities",82022523.0
+106,Michigan,"Electric Generators, Independent Power Producers",20085706.0
+107,Minnesota,"Combined Heat and Power, Commercial Power",294467.0
+108,Minnesota,"Combined Heat and Power, Electric Power",1060443.0
+109,Minnesota,"Combined Heat and Power, Industrial Power",1009953.0
+110,Minnesota,"Electric Generators, Electric Utilities",42688351.0
+111,Minnesota,"Electric Generators, Independent Power Producers",14574805.0
+112,Missouri,"Combined Heat and Power, Commercial Power",194533.0
+113,Missouri,"Combined Heat and Power, Electric Power",35308.0
+114,Missouri,"Combined Heat and Power, Industrial Power",43681.0
+115,Missouri,"Electric Generators, Electric Utilities",70672592.0
+116,Missouri,"Electric Generators, Independent Power Producers",6869866.0
+117,Mississippi,"Combined Heat and Power, Commercial Power",0.0
+118,Mississippi,"Combined Heat and Power, Industrial Power",1973656.0
+119,Mississippi,"Electric Generators, Electric Utilities",63535757.0
+120,Mississippi,"Electric Generators, Independent Power Producers",3203912.0
+121,Montana,"Combined Heat and Power, Electric Power",454274.0
+122,Montana,"Combined Heat and Power, Industrial Power",35041.0
+123,Montana,"Electric Generators, Electric Utilities",10341964.0
+124,Montana,"Electric Generators, Independent Power Producers",13635359.0
+125,North Carolina,"Combined Heat and Power, Commercial Power",272099.0
+126,North Carolina,"Combined Heat and Power, Electric Power",214176.0
+127,North Carolina,"Combined Heat and Power, Industrial Power",1785586.0
+128,North Carolina,"Electric Generators, Electric Utilities",110756159.0
+129,North Carolina,"Electric Generators, Independent Power Producers",18234662.0
+130,North Dakota,"Combined Heat and Power, Commercial Power",1062.0
+131,North Dakota,"Combined Heat and Power, Industrial Power",151658.0
+132,North Dakota,"Electric Generators, Electric Utilities",33414347.0
+133,North Dakota,"Electric Generators, Independent Power Producers",9138170.0
+134,Nebraska,"Combined Heat and Power, Commercial Power",17924.0
+135,Nebraska,"Combined Heat and Power, Industrial Power",344119.0
+136,Nebraska,"Electric Generators, Electric Utilities",28818114.0
+137,Nebraska,"Electric Generators, Independent Power Producers",9464488.0
+138,New Hampshire,"Combined Heat and Power, Commercial Power",64791.0
+139,New Hampshire,"Combined Heat and Power, Industrial Power",29005.0
+140,New Hampshire,"Electric Generators, Electric Utilities",660628.0
+141,New Hampshire,"Electric Generators, Independent Power Producers",16680566.0
+142,New Jersey,"Combined Heat and Power, Commercial Power",643265.0
+143,New Jersey,"Combined Heat and Power, Electric Power",6911564.0
+144,New Jersey,"Combined Heat and Power, Industrial Power",471205.0
+145,New Jersey,"Electric Generators, Electric Utilities",62574.0
+146,New Jersey,"Electric Generators, Independent Power Producers",53297915.0
+147,New Mexico,"Combined Heat and Power, Commercial Power",121998.0
+148,New Mexico,"Combined Heat and Power, Electric Power",20252.0
+149,New Mexico,"Combined Heat and Power, Industrial Power",47907.0
+150,New Mexico,"Electric Generators, Electric Utilities",21893409.0
+151,New Mexico,"Electric Generators, Independent Power Producers",13187732.0
+152,Nevada,"Combined Heat and Power, Commercial Power",627385.0
+153,Nevada,"Combined Heat and Power, Electric Power",2183913.0
+154,Nevada,"Combined Heat and Power, Industrial Power",337614.0
+155,Nevada,"Electric Generators, Electric Utilities",27261574.0
+156,Nevada,"Electric Generators, Independent Power Producers",11469702.0
+157,New York,"Combined Heat and Power, Commercial Power",1283599.0
+158,New York,"Combined Heat and Power, Electric Power",11479531.0
+159,New York,"Combined Heat and Power, Industrial Power",823690.0
+160,New York,"Electric Generators, Electric Utilities",37266097.0
+161,New York,"Electric Generators, Independent Power Producers",74373104.0
+162,Ohio,"Combined Heat and Power, Commercial Power",253877.0
+163,Ohio,"Combined Heat and Power, Electric Power",1593691.0
+164,Ohio,"Combined Heat and Power, Industrial Power",746446.0
+165,Ohio,"Electric Generators, Electric Utilities",12554826.0
+166,Ohio,"Electric Generators, Independent Power Producers",108186770.0
+167,Oklahoma,"Combined Heat and Power, Commercial Power",0.0
+168,Oklahoma,"Combined Heat and Power, Industrial Power",839102.0
+169,Oklahoma,"Electric Generators, Electric Utilities",36250896.0
+170,Oklahoma,"Electric Generators, Independent Power Producers",43474125.0
+171,Oregon,"Combined Heat and Power, Commercial Power",81271.0
+172,Oregon,"Combined Heat and Power, Electric Power",5909188.0
+173,Oregon,"Combined Heat and Power, Industrial Power",631596.0
+174,Oregon,"Electric Generators, Electric Utilities",39845286.0
+175,Oregon,"Electric Generators, Independent Power Producers",14614496.0
+176,Pennsylvania,"Combined Heat and Power, Commercial Power",384085.0
+177,Pennsylvania,"Combined Heat and Power, Electric Power",7924378.0
+178,Pennsylvania,"Combined Heat and Power, Industrial Power",2728318.0
+179,Pennsylvania,"Electric Generators, Electric Utilities",108593.0
+180,Pennsylvania,"Electric Generators, Independent Power Producers",230502987.0
+181,Rhode Island,"Combined Heat and Power, Commercial Power",57447.0
+182,Rhode Island,"Combined Heat and Power, Industrial Power",137274.0
+183,Rhode Island,"Electric Generators, Electric Utilities",2.0
+184,Rhode Island,"Electric Generators, Independent Power Producers",7840292.0
+185,South Carolina,"Combined Heat and Power, Commercial Power",2208.0
+186,South Carolina,"Combined Heat and Power, Electric Power",681914.0
+187,South Carolina,"Combined Heat and Power, Industrial Power",1804883.0
+188,South Carolina,"Electric Generators, Electric Utilities",94331674.0
+189,South Carolina,"Electric Generators, Independent Power Producers",3103724.0
+190,South Dakota,"Combined Heat and Power, Commercial Power",12.0
+191,South Dakota,"Combined Heat and Power, Industrial Power",28443.0
+192,South Dakota,"Electric Generators, Electric Utilities",9905268.0
+193,South Dakota,"Electric Generators, Independent Power Producers",7900910.0
+194,Tennessee,"Combined Heat and Power, Commercial Power",205812.0
+195,Tennessee,"Combined Heat and Power, Industrial Power",2204479.0
+196,Tennessee,"Electric Generators, Electric Utilities",78603226.0
+197,Tennessee,"Electric Generators, Independent Power Producers",465366.0
+198,Texas,"Combined Heat and Power, Commercial Power",612266.0
+199,Texas,"Combined Heat and Power, Electric Power",41947893.0
+200,Texas,"Combined Heat and Power, Industrial Power",41286435.0
+201,Texas,"Electric Generators, Electric Utilities",82082918.0
+202,Texas,"Electric Generators, Independent Power Producers",317632263.0
+203,Utah,"Combined Heat and Power, Commercial Power",126451.0
+204,Utah,"Combined Heat and Power, Electric Power",53816.0
+205,Utah,"Combined Heat and Power, Industrial Power",416951.0
+206,Utah,"Electric Generators, Electric Utilities",37112552.0
+207,Utah,"Electric Generators, Independent Power Producers",4947012.0
+208,Virginia,"Combined Heat and Power, Commercial Power",331937.0
+209,Virginia,"Combined Heat and Power, Electric Power",1012106.0
+210,Virginia,"Combined Heat and Power, Industrial Power",2333896.0
+211,Virginia,"Electric Generators, Electric Utilities",73103689.0
+212,Virginia,"Electric Generators, Independent Power Producers",17527389.0
+213,Vermont,"Combined Heat and Power, Commercial Power",3141.0
+214,Vermont,"Electric Generators, Electric Utilities",915002.0
+215,Vermont,"Electric Generators, Independent Power Producers",1229589.0
+216,Washington,"Combined Heat and Power, Commercial Power",28075.0
+217,Washington,"Combined Heat and Power, Industrial Power",2101579.0
+218,Washington,"Electric Generators, Electric Utilities",94110726.0
+219,Washington,"Electric Generators, Independent Power Producers",12882338.0
+220,Wisconsin,"Combined Heat and Power, Commercial Power",139559.0
+221,Wisconsin,"Combined Heat and Power, Electric Power",943291.0
+222,Wisconsin,"Combined Heat and Power, Industrial Power",1451526.0
+223,Wisconsin,"Electric Generators, Electric Utilities",51160713.0
+224,Wisconsin,"Electric Generators, Independent Power Producers",11783588.0
+225,West Virginia,"Combined Heat and Power, Industrial Power",1286665.0
+226,West Virginia,"Electric Generators, Electric Utilities",47093799.0
+227,West Virginia,"Electric Generators, Independent Power Producers",17250096.0
+228,Wyoming,"Combined Heat and Power, Industrial Power",2234720.0
+229,Wyoming,"Electric Generators, Electric Utilities",37365468.0
+230,Wyoming,"Electric Generators, Independent Power Producers",4050482.0
+231,US-TOTAL,"Combined Heat and Power, Commercial Power",13147622.0
+232,US-TOTAL,"Combined Heat and Power, Electric Power",132382347.0
+233,US-TOTAL,"Combined Heat and Power, Industrial Power",139607169.0
+234,US-TOTAL,"Electric Generators, Electric Utilities",2216234058.0
+235,US-TOTAL,"Electric Generators, Independent Power Producers",1614168959.0
