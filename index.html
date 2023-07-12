@@ -1,0 +1,94 @@
+<html>
+    <head>
+         <!-- Include the D3.js library -->
+        <script src="https://d3js.org/d3.v5.min.js"></script>
+        <!-- Include the Bootstrap CSS library -->
+        <link href="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css" rel="stylesheet" />
+        <!-- Set the favicon for the page -->
+        <link rel="shortcut icon" href="#">
+
+        <title>Muskan_Jain</title>
+        <center><h4>Energy Data Analysis and Visualization</h4></center>
+    </head>
+
+    <body>
+         <!-- Container for the main chart -->
+        <div id="main">
+        <div id="tooltip_main" class="hidden">
+        <p><strong>State</strong></p>
+		        <p><span id="state">100</span></p>
+        <p><strong>Generation</strong></p>
+                <p><span id="generation">100</span></p>
+        </div>
+         <!-- SVG container for the main chart -->
+        <svg id="canvas_main"></svg>
+        </div>
+
+        <!-- Container for the bar chart -->
+        <div id="barchart">
+            <div id="tooltip_barchart" ></div>
+        <!-- SVG container for the bar chart -->
+            <svg id="canvas_barchart"></svg>
+            </div>
+
+        <!-- Container for the pie chart -->
+            <div id="piechart">
+                <div id="tooltip_piechart"></div>
+         <!-- SVG container for the pie chart -->
+                <svg id="canvas_piechart"></svg>
+                </div>
+
+        <!-- Include the JavaScript file containing the chart logic -->
+        <script src="all_charts.js"></script>
+
+        <style>
+            svg{
+                background-color: rgb(255, 255, 255);
+            }
+
+            #canvas_main{
+                min-width: 100px;
+                min-height: 100px
+            }
+            /* Styling for the tooltip of the main chart */
+            #tooltip_main{
+                    position: absolute;
+                    width: 150px;
+                    height: auto;
+                    padding: 10px;
+                    background-color: rgb(243, 242, 239);
+                    -webkit-border-radius: 10px;
+                    -moz-border-radius: 10px;
+                    border-radius: 10px;
+                    -webkit-box-shadow: 4px 4px 10px rgba(0,0,0,0.4);
+                    -moz-box-shadow: 4px 4px 10px rgba(0,0,0,0.4);
+                    box-shadow: 4px 4px 10px rgba(0,0,0,0.4);
+                    pointer-events: none;
+                    }
+            #tooltip_main.hidden{
+                    display: none;
+            }
+            #tooltip_main p{
+                    margin: 0;
+                    font-family: sans-serif;
+                    font-size: 16px;
+                    line-height: 20px;
+            }
+            /* Styling for the chart containers */              
+            #main ,#barchart, #piechart{
+                height: 500px;
+                width: 500px;
+
+            }
+            /* Styling for the selected elements in barchart containers */
+            .selected {
+                opacity: 1;
+                stroke: black;
+                fill: rgb(177, 156, 217);
+                stroke-width: 1px;
+                }
+            
+        </style>
+
+    </body>
+</html>
